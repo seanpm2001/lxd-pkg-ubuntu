@@ -1,3 +1,10 @@
+lxd (3.0.3-0ubuntu1~18.04.2) bionic; urgency=medium
+
+  * Cherry-pick upstream bugfixes:
+    - 0001-lxd-apparmor-Tweak-default-set-of-rules.patch (LP: #1959047)
+
+ -- Stéphane Graber <stgraber@ubuntu.com>  Thu, 24 Mar 2022 12:18:01 -0400
+
 lxd (3.0.3-0ubuntu1~18.04.1) bionic; urgency=medium
 
   * New upstream bugfix release (LP: #1804876)
